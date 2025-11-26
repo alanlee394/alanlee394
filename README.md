@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Alan Lee
 
-Incoming **Software Engineer Intern @ Razer (Jan 2026)**⚡  
+Incoming **Software Engineer Intern @ Razer (Jan 2026)** ⚡  
 Previously worked at a **Medical Tech Company** building AI systems using **PyTorch**, data pipelines, and full-stack web apps in **React + TypeScript**.
 
 I'm passionate about designing scalable systems, building smart applications, and deploying real-world machine learning models.
@@ -46,17 +46,9 @@ PyTorch • YOLOv5/YOLOv8 • OpenCV
 
 ---
 
-## 📈 GitHub Stats
-
-![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanlee394&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanlee394&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
-🌐 GitHub: **[@alanlee394](https://github.com/alanlee394)**  
-🔗 Add portfolio/site when ready 😉  
+🌐 GitHub: **[@alanlee394](https://github.com/alanlee394)**   
 
 If you like my work, feel free to ⭐ my repositories or connect with me!
 
