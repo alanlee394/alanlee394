@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Alan Lee
 
-Incoming **Software Engineer Intern @ Razer (Jan 2026)** ⚡  
+Incoming **Software Engineer Intern @ Razer (Jan 2026)**  
 Previously worked at a **Medical Tech Company** building AI systems using **PyTorch**, data pipelines, and full-stack web apps in **React + TypeScript**.
 
 I'm passionate about designing scalable systems, building smart applications, and deploying real-world machine learning models.
