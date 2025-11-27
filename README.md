@@ -16,16 +16,16 @@ I'm passionate about designing scalable systems, building smart applications, an
 
 ## 💻 Tech Stack
 
-**Languages:**  
+**Languages**  
 [![Languages](https://skillicons.dev/icons?i=ts,py,java,c)](https://skillicons.dev)
 
-**Frontend:**  
+**Frontend**  
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,nextjs)](https://skillicons.dev)
 
-**Backend:**  
+**Backend**  
 [![Backend](https://skillicons.dev/icons?i=flask,fastapi,nodejs,express)](https://skillicons.dev)
 
-**Machine Learning & AI:**  
+**Machine Learning & AI**  
 [![ML & AI](https://skillicons.dev/icons?i=pytorch,opencv)](https://skillicons.dev)  
 
 
