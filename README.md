@@ -22,7 +22,7 @@ I'm passionate about designing scalable systems, building smart applications, an
 **Frontend:**  
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,nextjs)](https://skillicons.dev)
 
-**Backend / Infra:**  
+**Backend:**  
 [![Backend](https://skillicons.dev/icons?i=flask,fastapi,nodejs,express)](https://skillicons.dev)
 
 **Machine Learning & AI:**  
