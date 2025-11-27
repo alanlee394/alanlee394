@@ -1,8 +1,5 @@
 # 👋 Hey, I'm Alan Lee
 
-Incoming **Software Engineer Intern @ Razer (Jan 2026)**  
-Previously worked at a **Medical Tech Company** building AI systems using **PyTorch**, data pipelines, and full-stack web apps in **React + TypeScript**.
-
 I'm passionate about designing scalable systems, building smart applications, and deploying real-world machine learning models.
 
 ---
@@ -20,29 +17,17 @@ I'm passionate about designing scalable systems, building smart applications, an
 ## 💻 Tech Stack
 
 **Languages:**  
-TypeScript • Python • JavaScript • C++  
+[![Languages](https://skillicons.dev/icons?i=ts,py,java,c)](https://skillicons.dev)
 
 **Frontend:**  
-React • Tailwind • Next.js  
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind,nextjs)](https://skillicons.dev)
 
 **Backend / Infra:**  
-Flask • FastAPI • Node.js • Express.js
+[![Backend](https://skillicons.dev/icons?i=flask,fastapi,nodejs,express)](https://skillicons.dev)
 
 **Machine Learning & AI:**  
-PyTorch • YOLOv5/YOLOv8 • OpenCV  
+[![ML & AI](https://skillicons.dev/icons?i=pytorch,opencv)](https://skillicons.dev)  
 
----
-
-## 🏢 Experience
-
-### 🔹 Software Engineer Intern (Upcoming) – **Razer**
-📆 Starting January 2026  
-💻 Systems & software development
-
-### 🔹 AI / Software Intern – **Medical Technology Company**
-- Built ML pipelines/Image Recognition Models using PyTorch  
-- Developed internal tools using **React + TypeScript**  
-- Worked with model evaluation, data processing & performance testing
 
 ---
 
@@ -51,5 +36,3 @@ PyTorch • YOLOv5/YOLOv8 • OpenCV
 🌐 GitHub: **[@alanlee394](https://github.com/alanlee394)**   
 
 If you like my work, feel free to ⭐ my repositories or connect with me!
-
----
